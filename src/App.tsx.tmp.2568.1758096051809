@@ -4,7 +4,6 @@ import { PropertyGrid } from './components/PropertyGrid'
 import { Services } from './components/Services'
 import { Testimonials } from './components/Testimonials'
 import { Partners } from './components/Partners'
-import { ContactSection } from './components/ContactSection'
 import { FarenFooter } from './components/FarenFooter'
 
 function App() {
@@ -17,7 +16,6 @@ function App() {
         <Services />
         <Testimonials />
         <Partners />
-        <ContactSection />
       </main>
       <FarenFooter />
     </div>
